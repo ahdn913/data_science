@@ -1,0 +1,8 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data
+srag_2024.csv
